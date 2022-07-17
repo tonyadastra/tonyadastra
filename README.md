@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Tony, a full-stack freelance developer 👨‍💻 and aspiring entrepreneur 🚀</div>  
+## 👋 Hi, I'm Tony, a full-stack freelance developer 👨‍💻 and aspiring entrepreneur 🚀
   
 
 - 🔭 I’m currently working on EdTech products and a few side projects  
