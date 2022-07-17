@@ -1,6 +1,6 @@
-<div align="center">
-<!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 50%;" /> -->
-</div>  
+<!-- <div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 50%;" />
+</div>   -->
   
 
 ## 👋 Hi, I'm Tony, a full-stack freelance developer 👨‍💻 and aspiring entrepreneur 🚀
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Machine Learning, Vue.js, Swift, and AR Development  
   
 
-- ❓ Ask me about anything related to Flask web development and Canvas LTIs; enjoy conversations about the tech world  
+- ❓ Ask me about anything related to Flask web development and Canvas LTIs; or collaborating on a new project
   
 
 - ⚡ Fun fact: I'm a pandemic-induced-video-game-addict-turned developer  
@@ -21,7 +21,7 @@
 <br/>  
 
 
-## My Skill Set (Still Growing! 😄
+## My Skill Set (Still Growing! 😄)
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
