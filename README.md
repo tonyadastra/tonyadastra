@@ -3,16 +3,16 @@
 </div>   -->
   
 
-## 👋 Hi, I'm Tony, a full-stack freelance developer 👨‍💻 aspiring to build something great 🚀
+## 👋 Hi, I'm Tony, a full-stack developer/student @ UC Merced 👨‍💻 aspiring to build something great 🚀
   
 
-- 🔭 I’m currently working on EdTech products and a few side projects  
+- 🔭 I’m currently working on EdTech apps and a few other projects
   
 
-- 🌱 I’m currently learning Machine Learning, Vue.js, Swift, and AR Development  
+- 🌱 I’m currently learning Android/iOS develeopment, React, NoSQL, and NLP
   
 
-- ❓ Ask me about anything related to Flask web development and Canvas LTIs; or collaborating on a new project
+- ❓ Ask me about anything related to Flask web development; or collaborating on a new project
   
 
 - ⚡ Fun fact: I'm a pandemic-induced-video-game-addict-turned developer  
@@ -23,9 +23,6 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/tonyadastra" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://twitter.com/tonyadastra" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
