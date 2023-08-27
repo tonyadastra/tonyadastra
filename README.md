@@ -1,21 +1,4 @@
-<!-- <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 50%;" />
-</div>   -->
-  
-
-## 👋 Hi, I'm Tony, a full-stack developer/student @ UC Merced 👨‍💻 aspiring to build something great 🚀
-  
-
-- 🔭 I’m currently working on EdTech apps and a few other projects
-  
-
-- 🌱 I’m currently learning Android/iOS develeopment, React, NoSQL, and NLP
-  
-
-- ❓ Ask me about anything related to Flask web development; or collaborating on a new project
-  
-
-- ⚡ Fun fact: I'm a pandemic-induced-video-game-addict-turned developer  
+## 👋 Hi, I'm Tony
   
 
 <br/>  
